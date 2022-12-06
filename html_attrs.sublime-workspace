@@ -1,0 +1,719 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"VC",
+				"VCol"
+			],
+			[
+				"VCar",
+				"VCardText"
+			],
+			[
+				"obj",
+				"objs_"
+			],
+			[
+				"text-",
+				"text-h4"
+			],
+			[
+				"ran",
+				"randomKey"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"rando",
+				"randomKey"
+			],
+			[
+				"classS",
+				"classStyle_"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"Ob",
+				"Object.keys"
+			],
+			[
+				"O",
+				"Object.assign({},Object.assign({},obj"
+			],
+			[
+				"rand",
+				"randomKey"
+			],
+			[
+				"set",
+				"set_trace"
+			],
+			[
+				"s",
+				"super"
+			],
+			[
+				"but",
+				"button1\tabc"
+			],
+			[
+				"IS",
+				"IsAdminUser\tclass"
+			],
+			[
+				"Is",
+				"IsAuthenticated\tabc"
+			],
+			[
+				"I",
+				"IsAuthenticated\tabc"
+			],
+			[
+				"permissi",
+				"permission\t(pre_requis.py)"
+			],
+			[
+				"p",
+				"permission\tmodule"
+			],
+			[
+				"Isa",
+				"IsAdminUser\tabc"
+			],
+			[
+				"perm",
+				"permission_classes\tstatement"
+			],
+			[
+				"All",
+				"AllowAny\tabc"
+			],
+			[
+				"Allow",
+				"AllowAny\tabc"
+			],
+			[
+				"co",
+				"contrib\tmodule"
+			],
+			[
+				"__di",
+				"__dict__\t(request dir by GET.txt)"
+			],
+			[
+				"Limit",
+				"LimitOffsetPagination\tabc"
+			],
+			[
+				"Allo",
+				"AllowAny\tabc"
+			],
+			[
+				"permissio",
+				"permission_classes=[IsAuthenticated\tabc"
+			],
+			[
+				"permi",
+				"permission_classes"
+			],
+			[
+				"per",
+				"permission_class\tabc"
+			],
+			[
+				"pe",
+				"permissions"
+			],
+			[
+				"permission_class",
+				"permission_classes=[IsAuthenticated\t(views.py)"
+			],
+			[
+				"print",
+				"print('jjjjjjjjjjjjjjjjj\tabc"
+			],
+			[
+				"is",
+				"is_valid\tabc"
+			],
+			[
+				"del",
+				"delete_pwd〔variable〕"
+			],
+			[
+				"__",
+				"__dict__\tstatement"
+			],
+			[
+				"re",
+				"return\tabc"
+			],
+			[
+				"r",
+				"response\tabc"
+			],
+			[
+				"P",
+				"Participant\tabc"
+			],
+			[
+				"de",
+				"delete\tfunction"
+			],
+			[
+				"look",
+				"lookup_field\tabc"
+			],
+			[
+				"loo",
+				"lookup_field\t(generics.py)"
+			],
+			[
+				"Dest",
+				"DestroyModelMixin\t(generics.py)"
+			],
+			[
+				"retri",
+				"retrieve\t(generics.py)"
+			],
+			[
+				"base",
+				"basename\t(response.py)"
+			],
+			[
+				"get_o",
+				"get_object_or_404\tabc"
+			],
+			[
+				"get_ob",
+				"get_object_or_404\tfunction"
+			],
+			[
+				"query",
+				"queryset\tabc"
+			],
+			[
+				"Viewse",
+				"viewsets\tmodule"
+			],
+			[
+				"Toke",
+				"TokenAuthentication\tclass"
+			],
+			[
+				"authe",
+				"authentication_classes\t(views.py)"
+			],
+			[
+				"Up",
+				"UpdateModelMixin\t(generics.py)"
+			],
+			[
+				"Crea",
+				"CreateModelMixin\t(views.py)"
+			],
+			[
+				"lis",
+				"ListModelMixin\tclass"
+			],
+			[
+				"gen",
+				"GenericAPIView\tclass"
+			],
+			[
+				"generi",
+				"generics\t(views.py)"
+			],
+			[
+				"ArticleR",
+				"ArticleRegularSerializer\tabc"
+			],
+			[
+				"get",
+				"get_object\tfunction"
+			],
+			[
+				"req",
+				"request\tabc"
+			],
+			[
+				"API",
+				"APIView\tabc"
+			],
+			[
+				"vi",
+				"views\tabc"
+			],
+			[
+				"400",
+				"HTTP_400_BAD_REQUEST\tstatement"
+			],
+			[
+				"Json",
+				"JsonResponse\tabc"
+			],
+			[
+				"sta",
+				"status\tmodule"
+			],
+			[
+				"rest",
+				"rest_framework\tabc"
+			],
+			[
+				"Jso",
+				"JsonResponse\tabc"
+			],
+			[
+				"api",
+				"api_view\tabc"
+			],
+			[
+				"csr",
+				"csrf_exempt\tabc"
+			],
+			[
+				"Htt",
+				"HttpResponse\tabc"
+			],
+			[
+				"py",
+				"py​‌​"
+			],
+			[
+				"status",
+				"status_code\tabc"
+			],
+			[
+				"view",
+				"views\t(urls.py)"
+			],
+			[
+				"part",
+				"participant\t(urls.py)"
+			],
+			[
+				"JSON",
+				"JSONParser\t(generility_generics.py)"
+			],
+			[
+				"htt",
+				"HttpResponse\tclass"
+			],
+			[
+				"__mo",
+				"__mro__\t(generility_generics.py)"
+			],
+			[
+				"chil",
+				"child3\tabc"
+			],
+			[
+				"ch",
+				"child3\tabc"
+			],
+			[
+				"arg",
+				"args"
+			],
+			[
+				"ini",
+				"initial_data\tabc"
+			],
+			[
+				"Mo",
+				"Models\t(serializers.py)"
+			],
+			[
+				"J",
+				"JSONRenderer\tabc"
+			],
+			[
+				"s_p0",
+				"s_p0.data"
+			],
+			[
+				"validate",
+				"validated_data\tabc"
+			],
+			[
+				"user",
+				"user_count\tabc"
+			],
+			[
+				"res",
+				"rest_framework\tmodule"
+			],
+			[
+				"serial",
+				"serializer\t(generility_generics.py)"
+			],
+			[
+				"num",
+				"numPmu\t(turf_get_data.py)"
+			],
+			[
+				"cur",
+				"curr_pl\tabc"
+			],
+			[
+				"ra",
+				"ranks\tabc"
+			],
+			[
+				"course",
+				"course_performances_detaillees\t(turf_get_data.py)"
+			],
+			[
+				"cour",
+				"course_performances_comparees\tabc"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"debugger",
+				"Debugger: Install Adapters"
+			],
+			[
+				"debu",
+				"Debugger: Install Adapters"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"viewer",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"send",
+				"Preferences: SendCode Settings"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"view",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Snippet: ",
+				"Snippet: __magic__"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"vie",
+				"PackageResourceViewer: Open Resource"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 190.0,
+		"history":
+		[
+			"side_bar_new_file()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/wissemb11/Allprojects/wikihtml_project/html_attrs.js",
+		"/home/wissemb11/Allprojects/tc_project/tctn/node_modules/vue-js-modal/dist/index.js",
+		"/home/wissemb11/Allprojects/wb/mybackups/README.md",
+		"/home/wissemb11/Allprojects/wb/mybackups/ess.md",
+		"/home/wissemb11/Allprojects/wb/.git/config",
+		"/home/wissemb11/Allprojects/wb/mybackups/.git/config",
+		"/home/wissemb11/Allprojects/wb/.gitignore",
+		"/home/wissemb11/Allprojects/wb/ess.md",
+		"/home/wissemb11/Allprojects/tc_project/set_t_c_django_app.txt",
+		"/home/wissemb11/Allprojects/tc_project/tc_project_issues.txt",
+		"/home/wissemb11/Allprojects/tc_project/sftp-config.json",
+		"/home/wissemb11/Allprojects/wb/linux/remot history command.txt",
+		"/home/wissemb11/Allprojects/tc_project/.git/config",
+		"/home/wissemb11/Allprojects/tc_project/reqs.txt",
+		"/home/wissemb11/Allprojects/tc_project/tctn/src/components/theComps/myAlertComp/DialogGeneralModelMyAlertComp.vue",
+		"/home/wissemb11/Allprojects/tc_project/LICENSE",
+		"/home/wissemb11/Allprojects/tc_project/set_tctn_vue2_vuetify.txt",
+		"/home/wissemb11/Allprojects/wb/.git/info/exclude",
+		"/home/wissemb11/Allprojects/wb000/mybackups/packages/installed_software_04092020.log",
+		"/home/wissemb11/Allprojects/wb/linux/os/centos/centos8/vlc/vlc.txt",
+		"/tmp/sublime-sftp-browse-1669578044/mapped/home/tctn/tc_project/tctn/src/app/components/appHeader/AppHeaderComp.vue",
+		"/run/media/wissemb11/NADIA/enseignement/AU2020-2021/tp/trimestre1/dictionary-ensembles/td8_ensembles_dictionnaires.txt",
+		"/home/wissemb11/.config/sublime-text-3/Packages/Jedi - Python autocompletion/Default.sublime-mousemap",
+		"/home/wissemb11/.config/sublime-text-3/Packages/SublimeCodeIntel/Default (Linux).sublime-mousemap",
+		"/home/wissemb11/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/home/wissemb11/.config/sublime-text-3/Packages/User/.jsbeautifyrc",
+		"/home/wissemb11/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/wissemb11/.config/sublime-text-3/Packages/SideBarEnhancements/Default (Linux).sublime-keymap",
+		"/home/wissemb11/.config/sublime-text-3/Packages/Debugger/debugger.sublime-project",
+		"/home/wissemb11/.config/i3/config",
+		"/home/wissemb11/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/wissemb11/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/wissemb11/Desktop/keybind/keybind_to_add.sublime-project",
+		"/home/wissemb11/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-mousemap",
+		"/home/wissemb11/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/wissemb11/.config/sublime-text-3/Packages/User/Default.sublime-keymap",
+		"/home/wissemb11/.config/sublime-text-3/Packages/User/sublime_jedi.sublime-settings",
+		"/home/wissemb11/.config/sublime-text-3/Packages/User/Default.sublime-mousemap",
+		"/home/wissemb11/Allprojects/utilisateur/utilisateur_django_app/user/permission.py",
+		"/home/wissemb11/Allprojects/utilisateur/utilisateur_django_app_venv38/lib/python3.8/site-packages/rest_framework/views.py",
+		"/home/wissemb11/Allprojects/utilisateur/utilisateur_django_app_venv38/lib/python3.8/site-packages/django/views/decorators/debug.py",
+		"/home/wissemb11/Allprojects/utilisateur/utilisateur_django_app/group.py",
+		"/home/wissemb11/Allprojects/utilisateur/utilisateur_django_app_venv38/lib64/python3.8/site-packages/rest_framework/views.py",
+		"/home/wissemb11/Allprojects/utilisateur/utilisateur_django_app/api/views.py",
+		"/home/wissemb11/Allprojects/utilisateur/utilisateur_django_app_venv38/lib64/python3.8/site-packages/rest_framework/request.py",
+		"/home/wissemb11/Allprojects/global/global_app_venv38/lib/python3.8/site-packages/rest_framework/views.py",
+		"/home/wissemb11/Allprojects/global/global_app_venv38/lib/python3.8/site-packages/django/utils/datastructures.py",
+		"/home/wissemb11/Allprojects/utilisateur/utilisateur_django_app_venv38/lib/python3.8/site-packages/django/contrib/admin/options.py",
+		"/home/wissemb11/Allprojects/utilisateur/utilisateur_django_app_venv38/lib64/python3.8/site-packages/rest_framework/metadata.py",
+		"/home/wissemb11/Allprojects/turf/turf_django_app_venv38/lib/python3.8/site-packages/rest_framework/views.py",
+		"/home/wissemb11/Allprojects/utilisateur/utilisateur_django_app_venv38/lib/python3.8/site-packages/asgiref/sync.py",
+		"/home/wissemb11/Allprojects/utilisateur/utilisateur_django_app_venv38/lib/python3.8/site-packages/django/contrib/auth/context_processors.py",
+		"/home/wissemb11/Allprojects/utilisateur/utilisateur_django_app_venv38/lib/python3.8/site-packages/django/db/transaction.py",
+		"/home/wissemb11/Allprojects/utilisateur/utilisateur_django_app_venv38/lib/python3.8/site-packages/django/core/mail/__init__.py",
+		"/home/wissemb11/Allprojects/utilisateur/utilisateur_django_app_00/user/views.py",
+		"/home/wissemb11/Allprojects/utilisateur/utilisateur_django_app_00/user/urls.py",
+		"/home/wissemb11/Allprojects/utilisateur/utilisateur_django_app/utilisateur_django_app/urls.py",
+		"/home/wissemb11/Allprojects/utilisateur/utilisateur_django_app/user/urls.py",
+		"/home/wissemb11/Allprojects/utilisateur/utilisateur_django_app/utilisateur_django_app/settings.py",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/manage.py",
+		"/home/wissemb11/Allprojects/tcmo/tcmo_django_app/entraineur/tests.py",
+		"/home/wissemb11/Allprojects/global/global_app_venv38/lib/python3.8/site-packages/rest_framework/serializers.py",
+		"/home/wissemb11/Allprojects/global/global_app_venv38/lib/python3.8/site-packages/rest_framework/permissions.py",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/turf_django_app/settings.py",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/participant/models.py",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/article/models.py",
+		"/home/wissemb11/Allprojects/global/global_app_venv38/lib/python3.8/site-packages/rest_framework/pagination.py",
+		"/home/wissemb11/Allprojects/utilisateur/utilisateur_django_app/utilisateur_django_app/group.py",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/article/api/serializers.py",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/participant/api/urls.py",
+		"/home/wissemb11/Allprojects/global/global_app_venv38/lib/python3.8/site-packages/rest_framework/status.py",
+		"/home/wissemb11/Allprojects/global/global_app_venv38/lib/python3.8/site-packages/rest_framework/exceptions.py",
+		"/home/wissemb11/Allprojects/global/global_app_venv38/lib/python3.8/site-packages/rest_framework/viewsets.py",
+		"/home/wissemb11/Allprojects/global/global_app_venv38/lib/python3.8/site-packages/rest_framework/authentication.py",
+		"/home/wissemb11/Allprojects/global/global_app_venv38/lib/python3.8/site-packages/rest_framework/generics.py",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/turf_django_app/urls.py",
+		"/home/wissemb11/Allprojects/global/global_app_venv38/lib/python3.8/site-packages/rest_framework/mixins.py",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/api/views.py",
+		"/home/wissemb11/Allprojects/global/global_app_venv38/lib/python3.8/site-packages/django/http/response.py",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/api/urls.py",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/api/serializers.py",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/course/models.py",
+		"/home/wissemb11/Allprojects/global/global_app_venv38/lib/python3.8/site-packages/django/views/generic/base.py",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/participant/api/views.py",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/article/admin.py",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/article/apps.py",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/cheval/admin.py",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/Article/admin.py",
+		"/home/wissemb11/Allprojects/tcmo/tcmo_django_app/abonnement/templates/abonnement/abonnement_create.html",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/participant/api/serializers.py",
+		"/home/wissemb11/Allprojects/global/global_app_venv38/lib/python3.8/site-packages/rest_framework/renderers.py",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/course/views.py",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/course/templates/home.html",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/turf_django_app/views.py",
+		"/home/wissemb11/Allprojects/tcmo/tcmo_django_app/tennis/settings.py",
+		"/home/wissemb11/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/participant/__init__.py",
+		"/home/wissemb11/Allprojects/centos8_software/postgresql/install_postgresql.txt",
+		"/home/wissemb11/Allprojects/turf/set_turf_django_app.txt",
+		"/home/wissemb11/Allprojects/centos8_software/linux/linux_commands.txt",
+		"/home/wissemb11/Allprojects/centos8_software/general software/point_restoration_centos8.txt",
+		"/home/wissemb11/Allprojects/centos8_software/postgresql/commands_postgres.txt",
+		"/home/wissemb11/Allprojects/global/global_app_venv38/lib/python3.8/site-packages/rest_framework/utils/formatting.py",
+		"/home/wissemb11/Allprojects/global/global_app_venv38/lib/python3.8/site-packages/rest_framework/__init__.py",
+		"/usr/local/lib/python3.8/json/__init__.py",
+		"/usr/local/lib/python3.8/urllib/__init__.py",
+		"/home/wissemb11/Allprojects/turf/turf_django_app/cheval/api/urls.py",
+		"/home/wissemb11/.config/sublime-text-3/Packages/Alignment/Default (Linux).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/repl_python38.sublime-build",
+	"project": "html_attrs.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"debugger",
+				"sublime-text-3/Packages/Debugger/debugger.sublime-project"
+			],
+			[
+				"",
+				"utilisateur/utilisateur_django_app/group.py"
+			],
+			[
+				"mouse",
+				"~/.config/sublime-text-3/Packages/SublimeCodeIntel/Default (Linux).sublime-mousemap"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
