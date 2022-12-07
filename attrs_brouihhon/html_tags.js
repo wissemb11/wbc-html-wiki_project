@@ -1,4 +1,4 @@
-tags={
+let tags={
     '!DOCTYPE':{desc: 'Defines the document type',type:'Basic HTML'},
     'html':{desc: 'Defines an HTML document',type:'Basic HTML'},
     'head':{desc: 'Contains metadata/information for the document',type:'Basic HTML'},
