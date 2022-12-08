@@ -1,4 +1,4 @@
-let tags={
+let html_tags={
     '!DOCTYPE':{desc: 'Defines the document type',type:'Basic HTML'},
     'html':{desc: 'Defines an HTML document',type:'Basic HTML'},
     'head':{desc: 'Contains metadata/information for the document',type:'Basic HTML'},
@@ -124,4 +124,7 @@ let tags={
     'embed':{desc: ' Defines a container for an external (non-HTML) application',type:'Programming'},
     'object':{desc: 'Defines an embedded object',type:'Programming'},
     'param':{desc: ' Defines a parameter for an object',type:'Programming'}
-    }
+    };
+
+export default html_tags;
+

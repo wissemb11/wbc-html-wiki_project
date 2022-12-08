@@ -835,3 +835,5 @@ let all_attrs = {
         note: ''
     },
 };
+
+export default all_attrs;
